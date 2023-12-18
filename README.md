@@ -3,7 +3,8 @@
 #### Experienced in Python, Java, C++, SQL (more detail in my repos below ⬇️)
 #### Interested in Cyber Security fields (Red Team 🔴).
 ## Programming Language
-![c++](https://github.com/bananagrill/bananagrill/assets/111755333/f171ca36-4b84-4135-bb32-603f01c30675)
+<img src='images/c%2B%2B.png' width='25'>  <img src='images/java.png' width='30'> <img src='images/python.png' width='23'>
+
 <!--
 **bananagrill/bananagrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
