@@ -3,8 +3,8 @@
 #### Experienced in Python, Java, C++, SQL (more detail in my repos below ⬇️)
 #### Interested in Cyber Security fields (Red Team 🔴).
 ## Programming Language
-<img src='images/c%2B%2B.png' width='25'>  <img src='images/java.png' width='30'> <img src='images/python.png' width='23'> <img src='images/js.png' width='23'>  <img src='images/sql.png' width='50'> 
-<img src='images/lua.png' width='28'> 
+<img src='images/c%2B%2B.png' width='25'>  <img src='images/java.png' width='30'> <img src='images/python.png' width='23'> <img src='images/html.png' width='23'> <img src='images/js.png' width='23'> 
+<img src='images/sql.png' width='50'> <img src='images/lua.png' width='28'> 
 ## Tools and Frameworks
 <img src='images/Visual_Studio_Code.png' width='30'>  <img src='images/Kali.png' width='35'> <img src='images/Wire_Shark.png' width='30'>  <img src='images/ida.jpg' width='35'> 
 <img src='images/Burp.png' width='60'>  
