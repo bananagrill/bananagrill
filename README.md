@@ -2,6 +2,7 @@
 #### Now I'm a 3rd year computer engineering student, Chulalongkorn University.
 #### Experienced in Python, Java, C++, SQL (more detail in my repos below ⬇️)
 #### Interested in Cyber Security fields (Red Team 🔴).
+## Programming Language
 
 <!--
 **bananagrill/bananagrill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
