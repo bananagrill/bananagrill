@@ -9,7 +9,7 @@
 <img src='images/Visual_Studio_Code.png' width='30'>  <img src='images/Kali.png' width='35'> <img src='images/Wire_Shark.png' width='30'>  <img src='images/ida.jpg' width='35'> 
 <img src='images/Burp.png' width='60'>  
 ## Contact 📱
-<a href="www.linkedin.com/in/peeraphat-wongsri-4b34a3296">
+<a href="https://www.linkedin.com/in/peeraphat-wongsri-4b34a3296/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <!--
